@@ -1,0 +1,2 @@
+# static
+Store static files
